@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "user",
+    "password": "pass",
+    "database": "databse",
+    "host": "127.0.0.1",
+    "dialect": "databasetype"
+  },
+  "test": {
+    "username": "user",
+    "password": "pass",
+    "database": "databse",
+    "host": "127.0.0.1",
+    "dialect": "databasetype"
+  },
+  "production": {
+    "username": "user",
+    "password": "pass",
+    "database": "databse",
+    "host": "127.0.0.1",
+    "dialect": "databasetype"
+  }
+}
